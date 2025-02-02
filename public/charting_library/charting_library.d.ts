@@ -3169,7 +3169,7 @@ export interface ChartingLibraryWidgetOptions {
 	 * See more details [here](https://www.tradingview.com/charting-library-docs/latest/saving_loading/).
 	 *
 	 * ```javascript
-	 * charts_storage_url: 'http://storage.yourserver.com',
+	 * charts_storage_url: 'http://.yourserver.com',
 	 * ```
 	 */
 	charts_storage_url?: string;
