@@ -25,13 +25,10 @@ function App() {
           borderRadius: '5px'
         },
         description: <Box gap={'8px'}>
-          <Text>Welcome to Pump.One! Please note that this platform is distinct from pump.fun and operates under its own unique set of rules. By participating, you agree to abide by these rules.</Text>
-          <Text>For detailed information, please visit: <a href={'/rules'}>pump.one/rules</a>.</Text>
+          <Text>Memeco provides engaging and fun AD campaigns for businesses and brands on the LUV NFT FUN social media platform. </Text>
+          <Text>Join the FUN: <a href={'https://fun.luvnft.com'} target={'_blank'}>LUV NFT FUN</a>.</Text>
           <Text>
-            Additionally, pump.one is currently in a pre-alpha stage. Use at your own risk until an official announcement is made by the main Harmony X account <a href={'https://twitter.com/harmonyprotocol'} target={'_blank'}>@harmonyprotocol</a>.
-          </Text>
-          <Text>
-            If you encounter any issues, please report them at our GitHub page: <a href={'https://github.com/harmony-one/pump.fun.client/issues'} target={'_blank'}>Report Issues</a>.
+            Additionally, memeco.luvnft.com is currently in a pre-alpha stage. Use at your own risk until an official announcement is made by @hahz on LUV NFT FUN.
           </Text>
         </Box>
     ,

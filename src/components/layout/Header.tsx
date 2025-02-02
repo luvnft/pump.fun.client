@@ -101,7 +101,7 @@ export const Header = () => {
       <Box onClick={() => {
         navigate('/')
       }}>
-        <GradientButtonText size={'24px'}>PumpOne</GradientButtonText>
+        <GradientButtonText size={'24px'}>MEMECO</GradientButtonText>
       </Box>
       {!isMobile && <Box>
           <LatestUpdate />

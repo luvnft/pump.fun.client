@@ -32,9 +32,9 @@ export const config = createConfig(
       [harmonyOneTestnet.id]: http(),
     },
     walletConnectProjectId: appConfig.walletConnectProjectId,
-    appName: "Pump.One",
-    appDescription: "Pump.One",
-    appUrl: "https://pump-app.netlify.app",
+    appName: "MEMECO.",
+    appDescription: "MEMECO.",
+    appUrl: "https://memeco.luvnft.com",
     appIcon: "https://cryptologos.cc/logos/harmony-one-logo.png?v=040", // your app's icon, no bigger than 1024x1024px (max. 1MB)
   }),
 );

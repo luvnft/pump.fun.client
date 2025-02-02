@@ -3,14 +3,14 @@ import {Box, Text} from "grommet";
 export const RulesPage = () => {
   return <Box width={'800px'} gap={'48px'} margin={{ top: '32px', bottom: '32px' }}>
     <Box align={'center'}>
-      <Text size={'22px'} color={'accentWhite'} weight={500}>Pump One Rules</Text>
+      <Text size={'22px'} color={'accentWhite'} weight={500}>MEMECO. Rules</Text>
     </Box>
     <Box gap={'24px'}>
       <Box align={'center'}>
         <Text color={'accentWhite'} size={'20px'}>Launching tokens, minting, burning</Text>
       </Box>
       <Box gap={'8px'}>
-        <Text color={'accentWhite'}>1. Anyone can launch a token on pump.one. The token will automatically join the current competition round.</Text>
+        <Text color={'accentWhite'}>1. Anyone can launch a token on MEMECO. The token will automatically join the current competition round.</Text>
         <Text color={'accentWhite'}>2. After a token is launched, anyone can pay and mint more of the tokens</Text>
         <Text color={'accentWhite'}>3. Token price grows exponentially to the token's supply. The more tokens minted, the more it costs to mint the same amount of token.</Text>
         <Text color={'accentWhite'}>4. Anyone can burn their token at any time, in exchange for ONE. Like in minting, tokens can be sold for more ONE when token supply is high.</Text>

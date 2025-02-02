@@ -52,4 +52,4 @@ export const customFormatters: CustomFormatters = {
 }
 
 export const SupportedResolutions = ['1H'] as ResolutionString[]
-export const ExchangeName = 'PumpONE'
+export const ExchangeName = 'MEMECO'
